@@ -7,6 +7,7 @@ The ENotes Application is a web-based platform that allows users to create, save
 - **(JSP (JavaServer Pages)**: For creating dynamic web pages.
 - **Servlets**: For handling server-side processing and business logic.
 - **Oracle Database**: For storing user notes and other data.
+- **Apache Tomcat**: For running the web application.
 - **Eclipse IDE**: For development and debugging.
 
 ## Features
