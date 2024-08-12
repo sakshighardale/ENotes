@@ -1,4 +1,4 @@
-#ENotes Application
+##**ENotes Application**
 
 The ENotes Application is a web-based platform that allows users to create, save, and manage their notes. The application is built using JSP and Servlets, with Oracle Database for data storage.
 
